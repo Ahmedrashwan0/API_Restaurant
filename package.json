@@ -1,0 +1,15 @@
+{
+  "name": "data-hagoga",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "serve": "json-server --watch product.json --port 30010",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "json-server": "^1.0.0-beta.3"
+  }
+}
