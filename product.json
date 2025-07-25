@@ -10,55 +10,55 @@
   {
     "id": 2,
     "title": "Fjallraven",
-    "price": 109.95,
+    "price": 150.95,
     "image": "/mmm.png"
   },
   {
     "id": 3,
     "title": "Fjallraven",
-    "price": 109.95,
+    "price": 300.95,
     "image": "/product4.png"
   },
   {
     "id": 4,
     "title": "Fjallraven",
-    "price": 109.95,
+    "price":555.95,
     "image": "/product5.png"
   },
   {
     "id": 5,
     "title": "Fjallraven",
-    "price": 109.95,
+    "price": 180.95,
     "image": "/product6.png"
   },
   {
     "id": 6,
     "title": "Fjallraven",
-    "price": 109.95,
+    "price": 900.95,
     "image": "/product7.png"
   },
   {
     "id": 7,
     "title": "Fjallraven",
-    "price": 109.95,
+    "price": 600.95,
     "image": "/product8.png"
   },
   {
     "id": 8,
     "title": "Fjallraven",
-    "price": 109.95,
+    "price": 222.95,
     "image": "/product9.png"
   },
   {
     "id": 9,
     "title": "Fjallraven",
-    "price": 109.95,
+    "price": 355.95,
     "image": "/product10.png"
   },
   {
     "id": 10,
     "title": "Fjallraven",
-    "price": 109.95,
+    "price": 564.95,
     "image": "/product12.png"
   }
 ],
