@@ -5,7 +5,7 @@
     "id": 1,
     "title": "Fjallraven",
     "price": 109.95,
-    "image": "./product1.png"
+    "image": "https://github.com/Ahmedrashwan0/API_Restaurant/blob/main/img/product1.png?raw=true"
   },
   {
     "id": 2,
@@ -17,49 +17,49 @@
     "id": 3,
     "title": "Fjallraven",
     "price": 300.95,
-    "image": "./product4.png"
+    "image": "https://github.com/Ahmedrashwan0/API_Restaurant/blob/main/img/product4.png?raw=true"
   },
   {
     "id": 4,
     "title": "Fjallraven",
     "price":555.95,
-    "image": "./product5.png"
+    "image": "https://github.com/Ahmedrashwan0/API_Restaurant/blob/main/img/product5.png?raw=true"
   },
   {
     "id": 5,
     "title": "Fjallraven",
     "price": 180.95,
-    "image": "./product6.png"
+    "image": "https://github.com/Ahmedrashwan0/API_Restaurant/blob/main/img/product6.png?raw=true"
   },
   {
     "id": 6,
     "title": "Fjallraven",
     "price": 900.95,
-    "image": "./product7.png"
+    "image": "https://github.com/Ahmedrashwan0/API_Restaurant/blob/main/img/product7.png?raw=true"
   },
   {
     "id": 7,
     "title": "Fjallraven",
     "price": 600.95,
-    "image": "./product8.png"
+    "image": "https://github.com/Ahmedrashwan0/API_Restaurant/blob/main/img/product8.png?raw=true"
   },
   {
     "id": 8,
     "title": "Fjallraven",
     "price": 222.95,
-    "image": "./product9.png"
+    "image": "https://github.com/Ahmedrashwan0/API_Restaurant/blob/main/img/product9.png?raw=true"
   },
   {
     "id": 9,
     "title": "Fjallraven",
     "price": 355.95,
-    "image": "./product10.png"
+    "image": "https://github.com/Ahmedrashwan0/API_Restaurant/blob/main/img/product10.png?raw=true"
   },
   {
     "id": 10,
     "title": "Fjallraven",
     "price": 564.95,
-    "image": "./product12.png"
+    "image": "https://github.com/Ahmedrashwan0/API_Restaurant/blob/main/img/product11.png?raw=true"
   }
 ],
 "sweet":
@@ -68,49 +68,49 @@
     "id": 1,
     "title": "Fjallraven",
     "price": 109.95,
-    "image": "./product16.png"
+    "image": "https://github.com/Ahmedrashwan0/API_Restaurant/blob/main/img/product12.png?raw=true"
 
   },
   {
     "id": 2,
     "title": "Fjallraven",
     "price": 109.95,
-    "image": "./product17.png"
+    "image": "https://github.com/Ahmedrashwan0/API_Restaurant/blob/main/img/product13.png?raw=true"
 
   },
   {
     "id": 3,
     "title": "Fjallraven",
     "price": 109.95,
-    "image": "./product18.png"
+    "image": "https://github.com/Ahmedrashwan0/API_Restaurant/blob/main/img/product14.png?raw=true"
 
   },
   {
     "id": 4,
     "title": "Fjallraven",
     "price": 109.95,
-    "image": "./product19.png"
+    "image": "https://github.com/Ahmedrashwan0/API_Restaurant/blob/main/img/product15.png?raw=true"
 
   },
   {
     "id": 5,
     "title": "Fjallraven",
     "price": 109.95,
-    "image": "./product20.png"
+    "image": "https://github.com/Ahmedrashwan0/API_Restaurant/blob/main/img/product16.png?raw=true"
 
   },
   {
     "id": 6,
     "title": "Fjallraven",
     "price": 109.95,
-    "image": "./product21.png"
+    "image": "https://github.com/Ahmedrashwan0/API_Restaurant/blob/main/img/product17.png?raw=true"
 
   },
   {
     "id": 7,
     "title": "Fjallraven",
     "price": 109.95,
-    "image": "./product22.png"
+    "image": "https://github.com/Ahmedrashwan0/API_Restaurant/blob/main/img/product18.png?raw=true"
 
   }
 ],
@@ -119,31 +119,31 @@
     "id": 1,
     "title": "Fjallraven",
     "price": 109.95,
-    "image": "./product13.png"
+    "image": "https://github.com/Ahmedrashwan0/API_Restaurant/blob/main/img/product19.png?raw=true"
   },
   {
     "id": 2,
     "title": "Fjallraven",
     "price": 109.95,
-    "image": "./product14.png"
+    "image": "https://github.com/Ahmedrashwan0/API_Restaurant/blob/main/img/product20.png?raw=true"
   },
   {
     "id": 3,
     "title": "Fjallraven",
     "price": 109.95,
-    "image": "./product15.png"
+    "image": "https://github.com/Ahmedrashwan0/API_Restaurant/blob/main/img/product21.png?raw=true"
   },
   {
     "id": 4,
     "title": "Fjallraven",
     "price": 109.95,
-    "image": "./product23.png"
+    "image": "https://github.com/Ahmedrashwan0/API_Restaurant/blob/main/img/product22.png?raw=true"
   },
   {
     "id": 5,
     "title": "Fjallraven",
     "price": 109.95,
-    "image": "./product24.png"
+    "image": "https://github.com/Ahmedrashwan0/API_Restaurant/blob/main/img/product23.png?raw=true"
   }
 ]
 }
