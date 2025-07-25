@@ -11,55 +11,55 @@
     "id": 2,
     "title": "Fjallraven",
     "price": 150.95,
-    "image": "/mmm.png"
+    "image": "./mmm.png"
   },
   {
     "id": 3,
     "title": "Fjallraven",
     "price": 300.95,
-    "image": "/product4.png"
+    "image": "./product4.png"
   },
   {
     "id": 4,
     "title": "Fjallraven",
     "price":555.95,
-    "image": "/product5.png"
+    "image": "./product5.png"
   },
   {
     "id": 5,
     "title": "Fjallraven",
     "price": 180.95,
-    "image": "/product6.png"
+    "image": "./product6.png"
   },
   {
     "id": 6,
     "title": "Fjallraven",
     "price": 900.95,
-    "image": "/product7.png"
+    "image": "./product7.png"
   },
   {
     "id": 7,
     "title": "Fjallraven",
     "price": 600.95,
-    "image": "/product8.png"
+    "image": "./product8.png"
   },
   {
     "id": 8,
     "title": "Fjallraven",
     "price": 222.95,
-    "image": "/product9.png"
+    "image": "./product9.png"
   },
   {
     "id": 9,
     "title": "Fjallraven",
     "price": 355.95,
-    "image": "/product10.png"
+    "image": "./product10.png"
   },
   {
     "id": 10,
     "title": "Fjallraven",
     "price": 564.95,
-    "image": "/product12.png"
+    "image": "./product12.png"
   }
 ],
 "sweet":
@@ -68,49 +68,49 @@
     "id": 1,
     "title": "Fjallraven",
     "price": 109.95,
-    "image": "/product16.png"
+    "image": "./product16.png"
 
   },
   {
     "id": 2,
     "title": "Fjallraven",
     "price": 109.95,
-    "image": "/product17.png"
+    "image": "./product17.png"
 
   },
   {
     "id": 3,
     "title": "Fjallraven",
     "price": 109.95,
-    "image": "/product18.png"
+    "image": "./product18.png"
 
   },
   {
     "id": 4,
     "title": "Fjallraven",
     "price": 109.95,
-    "image": "/product19.png"
+    "image": "./product19.png"
 
   },
   {
     "id": 5,
     "title": "Fjallraven",
     "price": 109.95,
-    "image": "/product20.png"
+    "image": "./product20.png"
 
   },
   {
     "id": 6,
     "title": "Fjallraven",
     "price": 109.95,
-    "image": "/product21.png"
+    "image": "./product21.png"
 
   },
   {
     "id": 7,
     "title": "Fjallraven",
     "price": 109.95,
-    "image": "/product22.png"
+    "image": "./product22.png"
 
   }
 ],
@@ -119,31 +119,31 @@
     "id": 1,
     "title": "Fjallraven",
     "price": 109.95,
-    "image": "/product13.png"
+    "image": "./product13.png"
   },
   {
     "id": 2,
     "title": "Fjallraven",
     "price": 109.95,
-    "image": "/product14.png"
+    "image": "./product14.png"
   },
   {
     "id": 3,
     "title": "Fjallraven",
     "price": 109.95,
-    "image": "/product15.png"
+    "image": "./product15.png"
   },
   {
     "id": 4,
     "title": "Fjallraven",
     "price": 109.95,
-    "image": "/product23.png"
+    "image": "./product23.png"
   },
   {
     "id": 5,
     "title": "Fjallraven",
     "price": 109.95,
-    "image": "/product24.png"
+    "image": "./product24.png"
   }
 ]
 }
