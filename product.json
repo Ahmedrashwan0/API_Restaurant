@@ -11,7 +11,7 @@
     "id": 2,
     "title": "Fjallraven",
     "price": 150.95,
-    "image": "./mmm.png"
+    "image": "https://github.com/Ahmedrashwan0/API_Restaurant/blob/main/img/mmm.png?raw=true"
   },
   {
     "id": 3,
