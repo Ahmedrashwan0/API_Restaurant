@@ -3,147 +3,141 @@
 [
   {
     "id": 1,
-    "title": "Fjallraven",
-    "price": 109.95,
+    "title": "Kufta",
+    "price": 159.95,
     "image": "https://github.com/Ahmedrashwan0/API_Restaurant/blob/main/img/product1.png?raw=true"
   },
   {
     "id": 2,
-    "title": "Fjallraven",
-    "price": 150.95,
+    "title": "mulukhiyah",
+    "price": 50.95,
     "image": "https://github.com/Ahmedrashwan0/API_Restaurant/blob/main/img/mmm.png?raw=true"
   },
   {
     "id": 3,
-    "title": "Fjallraven",
-    "price": 300.95,
+    "title": "soup",
+    "price": 30.95,
     "image": "https://github.com/Ahmedrashwan0/API_Restaurant/blob/main/img/product4.png?raw=true"
   },
   {
     "id": 4,
-    "title": "Fjallraven",
-    "price":555.95,
+    "title": "roast pigeon",
+    "price":170.95,
     "image": "https://github.com/Ahmedrashwan0/API_Restaurant/blob/main/img/product5.png?raw=true"
   },
   {
     "id": 5,
-    "title": "Fjallraven",
-    "price": 180.95,
+    "title": "sausage",
+    "price": 80.95,
     "image": "https://github.com/Ahmedrashwan0/API_Restaurant/blob/main/img/product6.png?raw=true"
   },
   {
     "id": 6,
-    "title": "Fjallraven",
-    "price": 900.95,
+    "title": "Stuffed grape leaves",
+    "price": 200.95,
     "image": "https://github.com/Ahmedrashwan0/API_Restaurant/blob/main/img/product7.png?raw=true"
   },
   {
     "id": 7,
-    "title": "Fjallraven",
-    "price": 600.95,
+    "title": "Shawarma",
+    "price": 250.95,
     "image": "https://github.com/Ahmedrashwan0/API_Restaurant/blob/main/img/product8.png?raw=true"
   },
   {
     "id": 8,
-    "title": "Fjallraven",
-    "price": 222.95,
+    "title": "Meat Fatteh",
+    "price": 300.95,
     "image": "https://github.com/Ahmedrashwan0/API_Restaurant/blob/main/img/product9.png?raw=true"
   },
   {
     "id": 9,
-    "title": "Fjallraven",
-    "price": 355.95,
-    "image": "https://github.com/Ahmedrashwan0/API_Restaurant/blob/main/img/product10.png?raw=true"
-  },
-  {
-    "id": 10,
-    "title": "Fjallraven",
-    "price": 564.95,
-    "image": "https://github.com/Ahmedrashwan0/API_Restaurant/blob/main/img/product11.png?raw=true"
+    "title": "Meat casserole",
+    "price": 95.95,
+    "image": "https://github.com/Ahmedrashwan0/API_Restaurant/blob/main/img/product12.png?raw=true"
   }
 ],
 "sweet":
 [
   {
     "id": 1,
-    "title": "Fjallraven",
-    "price": 109.95,
-    "image": "https://github.com/Ahmedrashwan0/API_Restaurant/blob/main/img/product12.png?raw=true"
+    "title": "Kunafa",
+    "price": 80.95,
+    "image": "https://github.com/Ahmedrashwan0/API_Restaurant/blob/main/img/product16.jpg?raw=true"
 
   },
   {
     "id": 2,
-    "title": "Fjallraven",
-    "price": 109.95,
-    "image": "https://github.com/Ahmedrashwan0/API_Restaurant/blob/main/img/product13.png?raw=true"
+    "title": "Biscuits",
+    "price": 30.95,
+    "image": "https://github.com/Ahmedrashwan0/API_Restaurant/blob/main/img/product17.jpg?raw=true"
 
   },
   {
     "id": 3,
-    "title": "Fjallraven",
-    "price": 109.95,
-    "image": "https://github.com/Ahmedrashwan0/API_Restaurant/blob/main/img/product14.png?raw=true"
+    "title": "Waffle",
+    "price": 150.95,
+    "image": "https://github.com/Ahmedrashwan0/API_Restaurant/blob/main/img/product18.jpg?raw=true"
 
   },
   {
     "id": 4,
-    "title": "Fjallraven",
-    "price": 109.95,
-    "image": "https://github.com/Ahmedrashwan0/API_Restaurant/blob/main/img/product15.png?raw=true"
+    "title": "Cake",
+    "price": 200,
+    "image": "https://github.com/Ahmedrashwan0/API_Restaurant/blob/main/img/product19.jpg?raw=true"
 
   },
   {
     "id": 5,
-    "title": "Fjallraven",
-    "price": 109.95,
-    "image": "https://github.com/Ahmedrashwan0/API_Restaurant/blob/main/img/product16.png?raw=true"
+    "title": "cookies",
+    "price": 20.95,
+    "image": "https://github.com/Ahmedrashwan0/API_Restaurant/blob/main/img/product20.jpg?raw=true"
 
   },
   {
     "id": 6,
-    "title": "Fjallraven",
-    "price": 109.95,
-    "image": "https://github.com/Ahmedrashwan0/API_Restaurant/blob/main/img/product17.png?raw=true"
+    "title": "Ice cream",
+    "price": 19.95,
+    "image": "https://github.com/Ahmedrashwan0/API_Restaurant/blob/main/img/product21.jpg?raw=true"
 
   },
   {
     "id": 7,
-    "title": "Fjallraven",
-    "price": 109.95,
-    "image": "https://github.com/Ahmedrashwan0/API_Restaurant/blob/main/img/product18.png?raw=true"
+    "title": "dark ice cream",
+    "price": 29.95,
+    "image": "https://github.com/Ahmedrashwan0/API_Restaurant/blob/main/img/product22.jpg?raw=true"
 
   }
 ],
 "drinks":[
   {
     "id": 1,
-    "title": "Fjallraven",
-    "price": 109.95,
-    "image": "https://github.com/Ahmedrashwan0/API_Restaurant/blob/main/img/product19.png?raw=true"
+    "title": "Oreo milkshake",
+    "price": 40.95,
+    "image": "https://github.com/Ahmedrashwan0/API_Restaurant/blob/main/img/product23.jpg?raw=true"
   },
   {
     "id": 2,
-    "title": "Fjallraven",
-    "price": 109.95,
-    "image": "https://github.com/Ahmedrashwan0/API_Restaurant/blob/main/img/product20.png?raw=true"
+    "title": "milkshake",
+    "price": 80.95,
+    "image": "https://github.com/Ahmedrashwan0/API_Restaurant/blob/main/img/product24.jpg?raw=true"
   },
   {
     "id": 3,
-    "title": "Fjallraven",
-    "price": 109.95,
-    "image": "https://github.com/Ahmedrashwan0/API_Restaurant/blob/main/img/product21.png?raw=true"
+    "title": "soft drinks",
+    "price": 30.95,
+    "image": "https://github.com/Ahmedrashwan0/API_Restaurant/blob/main/img/product13.jpg?raw=true"
   },
   {
     "id": 4,
-    "title": "Fjallraven",
-    "price": 109.95,
-    "image": "https://github.com/Ahmedrashwan0/API_Restaurant/blob/main/img/product22.png?raw=true"
+    "title": "fresh juice",
+    "price": 50.95,
+    "image": "https://github.com/Ahmedrashwan0/API_Restaurant/blob/main/img/product14.jpeg?raw=true"
   },
   {
     "id": 5,
-    "title": "Fjallraven",
-    "price": 109.95,
-    "image": "https://github.com/Ahmedrashwan0/API_Restaurant/blob/main/img/product23.png?raw=true"
+    "title": "strawberry juice",
+    "price": 50.95,
+    "image": "https://github.com/Ahmedrashwan0/API_Restaurant/blob/main/img/product15.jpg?raw=true"
   }
 ]
 }
