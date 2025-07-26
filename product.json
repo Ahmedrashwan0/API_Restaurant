@@ -4,55 +4,55 @@
   {
     "id": 1,
     "title": "Kufta",
-    "price": 159.95,
+    "price": 159,
     "image": "https://github.com/Ahmedrashwan0/API_Restaurant/blob/main/img/product1.png?raw=true"
   },
   {
     "id": 2,
     "title": "mulukhiyah",
-    "price": 50.95,
+    "price": 50,
     "image": "https://github.com/Ahmedrashwan0/API_Restaurant/blob/main/img/mmm.png?raw=true"
   },
   {
     "id": 3,
     "title": "soup",
-    "price": 30.95,
+    "price": 30,
     "image": "https://github.com/Ahmedrashwan0/API_Restaurant/blob/main/img/product4.png?raw=true"
   },
   {
     "id": 4,
     "title": "roast pigeon",
-    "price":170.95,
+    "price":170,
     "image": "https://github.com/Ahmedrashwan0/API_Restaurant/blob/main/img/product5.png?raw=true"
   },
   {
     "id": 5,
     "title": "sausage",
-    "price": 80.95,
+    "price": 80,
     "image": "https://github.com/Ahmedrashwan0/API_Restaurant/blob/main/img/product6.png?raw=true"
   },
   {
     "id": 6,
     "title": "Stuffed grape leaves",
-    "price": 200.95,
+    "price": 200,
     "image": "https://github.com/Ahmedrashwan0/API_Restaurant/blob/main/img/product7.png?raw=true"
   },
   {
     "id": 7,
     "title": "Shawarma",
-    "price": 250.95,
+    "price": 250,
     "image": "https://github.com/Ahmedrashwan0/API_Restaurant/blob/main/img/product8.png?raw=true"
   },
   {
     "id": 8,
     "title": "Meat Fatteh",
-    "price": 300.95,
+    "price": 300,
     "image": "https://github.com/Ahmedrashwan0/API_Restaurant/blob/main/img/product9.png?raw=true"
   },
   {
     "id": 9,
     "title": "Meat casserole",
-    "price": 95.95,
+    "price": 95,
     "image": "https://github.com/Ahmedrashwan0/API_Restaurant/blob/main/img/product12.png?raw=true"
   }
 ],
@@ -61,21 +61,21 @@
   {
     "id": 1,
     "title": "Kunafa",
-    "price": 80.95,
+    "price": 80,
     "image": "https://github.com/Ahmedrashwan0/API_Restaurant/blob/main/img/product16.jpg?raw=true"
 
   },
   {
     "id": 2,
     "title": "Biscuits",
-    "price": 30.95,
+    "price": 30,
     "image": "https://github.com/Ahmedrashwan0/API_Restaurant/blob/main/img/product17.jpg?raw=true"
 
   },
   {
     "id": 3,
     "title": "Waffle",
-    "price": 150.95,
+    "price": 150,
     "image": "https://github.com/Ahmedrashwan0/API_Restaurant/blob/main/img/product18.jpg?raw=true"
 
   },
@@ -89,21 +89,21 @@
   {
     "id": 5,
     "title": "cookies",
-    "price": 20.95,
+    "price": 20,
     "image": "https://github.com/Ahmedrashwan0/API_Restaurant/blob/main/img/product20.jpg?raw=true"
 
   },
   {
     "id": 6,
     "title": "Ice cream",
-    "price": 19.95,
+    "price": 19,
     "image": "https://github.com/Ahmedrashwan0/API_Restaurant/blob/main/img/product21.jpg?raw=true"
 
   },
   {
     "id": 7,
     "title": "dark ice cream",
-    "price": 29.95,
+    "price": 29,
     "image": "https://github.com/Ahmedrashwan0/API_Restaurant/blob/main/img/product22.jpg?raw=true"
 
   }
@@ -112,31 +112,31 @@
   {
     "id": 1,
     "title": "Oreo milkshake",
-    "price": 40.95,
+    "price": 40,
     "image": "https://github.com/Ahmedrashwan0/API_Restaurant/blob/main/img/product23.jpg?raw=true"
   },
   {
     "id": 2,
     "title": "milkshake",
-    "price": 80.95,
+    "price": 80,
     "image": "https://github.com/Ahmedrashwan0/API_Restaurant/blob/main/img/product24.jpg?raw=true"
   },
   {
     "id": 3,
     "title": "soft drinks",
-    "price": 30.95,
+    "price": 30,
     "image": "https://github.com/Ahmedrashwan0/API_Restaurant/blob/main/img/product13.jpg?raw=true"
   },
   {
     "id": 4,
     "title": "fresh juice",
-    "price": 50.95,
+    "price": 50,
     "image": "https://github.com/Ahmedrashwan0/API_Restaurant/blob/main/img/product14.jpeg?raw=true"
   },
   {
     "id": 5,
     "title": "strawberry juice",
-    "price": 50.95,
+    "price": 50,
     "image": "https://github.com/Ahmedrashwan0/API_Restaurant/blob/main/img/product15.jpg?raw=true"
   }
 ]
